@@ -9,5 +9,7 @@ public class FindLocationActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_find_location);
+
+        // Git Test Commit 2
     }
 }
